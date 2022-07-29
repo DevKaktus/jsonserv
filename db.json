@@ -320,5 +320,47 @@
       "velit"
     ]
   }
-]
+],
+  "tags": [
+    {
+      "index": "1",
+      "tag": "first"
+  },
+    {
+      "index": "w",
+      "tag": "second"
+    },
+    {
+      "index": "3",
+      "tag": "third"
+    },
+    {
+      "index": "4",
+      "tag": "fourth"
+    },
+    {
+      "index": "5",
+      "tag": "fifth"
+    },
+    {
+      "index": "6",
+      "tag": "sixth"
+    },
+    {
+      "index": "7",
+      "tag": "seventh"
+    },
+    {
+      "index": "8",
+      "tag": "eighth"
+    },
+    {
+      "index": "9",
+      "tag": "ninth"
+    },
+    {
+      "index": "10",
+      "tag": "tenth"
+    }
+  ]
 }
